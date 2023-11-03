@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - selection
+  - apple
+  - avacado
+  - blueberry
+  - granat
+  - grapes
+  - kiwi
+  - lemon
+  - selection2
+  - selection3
+  - anchor
+  - coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 3478211391
+    locked: 0
+  - name: tileBackgorund
+    uniqueID: 2633613307
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: coin
+    uniqueID: 2250593207
+    locked: 0
+  - name: uiFront
+    uniqueID: 3697123529
+    locked: 0
